@@ -1,0 +1,7 @@
+interface:
+  display_name: "机械设计手册知识库 Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use $mechanical-design-assistant to answer questions about 机械设计手册知识库 and cite the course sources."
+
+policy:
+  allow_implicit_invocation: true

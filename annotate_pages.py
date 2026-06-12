@@ -8,7 +8,7 @@ import os, re, sys
 from collections import defaultdict
 from pathlib import Path
 
-BASE = Path("/vol2/1000/working/机械设计原理")
+BASE = Path("/app")
 KB = BASE / "机械设计知识库"
 VOL_FILES = [
     ("第1卷","/tmp/vol1_full.txt",2017), ("第2卷","/tmp/vol2_full.txt",1693),

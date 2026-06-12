@@ -1,0 +1,11 @@
+services:
+  mechanical-design:
+    build: .
+    container_name: mechanical-design-handbook
+    ports:
+      - "5231:5231"
+    volumes:
+      - .:/app
+    restart: unless-stopped
+    stdin_open: true
+    tty: true

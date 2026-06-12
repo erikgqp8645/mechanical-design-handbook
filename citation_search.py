@@ -13,7 +13,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-BASE_DIR = Path("/vol2/1000/working/机械设计原理")
+BASE_DIR = Path("/app")
 KB_DIR = BASE_DIR / "机械设计知识库"
 PAGE_INDEX_PATH = KB_DIR / ".page_index.json"
 KB_INDEX_PATH = BASE_DIR / ".kb_index.json"

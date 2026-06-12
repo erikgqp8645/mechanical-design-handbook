@@ -8,7 +8,7 @@ import json, os, re, sys, time
 from collections import defaultdict
 from pathlib import Path
 
-BASE = Path("/vol2/1000/working/机械设计原理")
+BASE = Path("/app")
 KB = BASE / "机械设计知识库"
 
 # 热启动加载

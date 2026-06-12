@@ -1,8 +1,8 @@
 import http.server, json, re, urllib.parse, os, mimetypes
 from pathlib import Path
 
-KB = Path("/vol2/1000/working/机械设计原理/机械设计知识库")
-BASE = Path("/vol2/1000/working/机械设计原理")
+KB = Path("/app/机械设计知识库")
+BASE = Path("/app")
 
 # 加载印刷页码→PDF页码反向映射
 _PIAN_START = {}

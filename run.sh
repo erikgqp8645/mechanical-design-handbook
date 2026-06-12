@@ -2,7 +2,7 @@
 # 机械设计手册检索系统 - 启动入口
 # 用法: ./run.sh [web|mcp|cli|reindex]
 
-DIR="/vol2/1000/working/机械设计原理"
+DIR="/app"
 cd "$DIR" || exit 1
 
 case "${1:-web}" in

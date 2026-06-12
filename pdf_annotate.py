@@ -8,7 +8,7 @@ import json, os, re, sys
 from collections import defaultdict
 from pathlib import Path
 
-BASE = Path("/vol2/1000/working/机械设计原理")
+BASE = Path("/app")
 KB = BASE / "机械设计知识库"
 PDFS = [
     ("第1卷", BASE / "机械设计手册 第六版 第1卷.PDF", 2017),

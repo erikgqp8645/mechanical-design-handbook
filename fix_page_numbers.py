@@ -7,7 +7,7 @@
 import fitz, re, json, time
 from pathlib import Path
 
-BASE = Path("/vol2/1000/working/机械设计原理")
+BASE = Path("/app")
 KB = BASE / "机械设计知识库"
 EX = {"页码对照表","卷章篇索引","GB标准清单","JB标准清单","设计流程与规范","深化计划","README",".gitignore"}
 

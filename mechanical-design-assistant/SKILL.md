@@ -31,6 +31,27 @@ Active role(s): Expert.
 7. `references/course_package.json` for normalized package objects when structured lookup is needed.
 8. `references/full_transcript.md` for original wording when detailed citation is required.
 
+## Extended Knowledge: 汇川电液伺服产品选型 (2026-06-27)
+
+When the user asks about electro-hydraulic servo product selection, INOVANCE servo drives, servo motors, or related topics, use the `*_dianye_servo.*` reference files:
+
+### Coverage
+
+| Section | Series | Files to use |
+|---------|--------|-------------|
+| Servo Drives (7) | ES510, IS580, ES590, ES650N, ES580C, ES630P, ES810 | `course_digest_dianye_servo.md`, `full_transcript_dianye_servo.md` |
+| Servo Motors (5) | ESMG1, ESMG2, MEG20/26, MEG36, ISMQ2 | same as above |
+| Controllers (3) | EP700, EP700E, EP700B | same as above |
+
+### Reference Priority (electro-hydraulic servo)
+
+1. `references/course_digest_dianye_servo.md` for product-level framework and specs.
+2. `references/full_transcript_dianye_servo.md` for detailed specifications and tables.
+3. `references/concept_glossary_dianye_servo.md` for electro-hydraulic servo terminology.
+4. `references/lesson_index_dianye_servo.json` for product series listing.
+5. `references/quote_index_dianye_servo.md` for key parameters and specs.
+6. `references/study_paths_dianye_servo.md` for selection guide and application scenarios.
+
 ## Response Rules
 
 ### Expert

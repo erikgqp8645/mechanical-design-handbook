@@ -1,0 +1,55 @@
+[
+  {
+    "id": "dianye-series-01",
+    "title": "ES510 系列标准型油压伺服驱动器",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": [
+      "额定电压380-480V",
+      "内置高性能油压控制算法",
+      "免调谐"
+    ]
+  },
+  {
+    "id": "dianye-series-02",
+    "title": "IS580 系列标准型油压伺服驱动器",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": []
+  },
+  {
+    "id": "dianye-series-03",
+    "title": "ES590 系列高可靠油冷伺服驱动器",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": []
+  },
+  {
+    "id": "dianye-series-04",
+    "title": "ES650N 系列总线型伺服驱动器",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": []
+  },
+  {
+    "id": "dianye-series-05",
+    "title": "ES580C 系列工程型伺服驱动一体机",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": []
+  },
+  {
+    "id": "dianye-series-06",
+    "title": "ES630P 系列通用型伺服驱动器",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": []
+  },
+  {
+    "id": "dianye-series-07",
+    "title": "ES810 系列全电多机传动伺服驱动器",
+    "category": "伺服驱动器篇",
+    "duration_minutes": null,
+    "key_points": []
+  }
+]
